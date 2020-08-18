@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ubuntu - FAT-fs (nvme0n1p1) - IO charset iso8859-1 not found
+permalink: /ubuntu-fat-fs-nvme0n1p1-io-charset-iso8859-1-not-found/
+author: Todd Lichty
+---
+<p>Twelve months ago, I switched my primary ultrabook over to Ubuntu from Windows. I have been using Windows non-stop since the first release of Windows 3.1. There were not many boot errors that occurred in Windows that I did not know how to resolve.</p><p>The past 12 months using Ubuntu have been fantastic. While there was a learning curve, Linux has come a long way since I toyed with it in University. The ultrabook has been rock solid for me that past 12 months.</p><p>Until this morning.</p><p>When I booted my ThinkPad, I was met with the following error and a command prompt:</p><!--kg-card-begin: markdown--><pre><code class="language-shell">FAT-fs (nvme0n1p1): IO charset iso8859-1 not found
+</code></pre>
+<!--kg-card-end: markdown--><p>I tried rebooting several times but was stuck in emergency mode.</p><p>I tried many of the suggestions that I found on askubuntu.com (like this <a href="https://askubuntu.com/questions/953681/16-04-stuck-in-emergency-mode-fat-fs-nvme0n1p1-io-charset-iso8859-1-not-f?rq=1">one</a>) but none of them solved the issue. After more Googling (and some panic), I was able to resolve the issue by:</p><ol><li>Selecting Advanced Options on the GRUB boot menu.</li><li>Selecting recovery mode using the OLDEST version of the Linux kernel I had installed.</li><li>This booted me to the recovery screen.</li></ol><figure class="kg-card kg-image-card"><img src="/images/recovery_menu_ubuntu.png" class="kg-image"></figure><p>4. I selected dpkg from the menu. This ran for a few minutes and when it completed successfully, I rebooted.</p><p>All seems to be well with the ThinkPad. I do not know what caused the problem, but the solution was quick and painless.</p>

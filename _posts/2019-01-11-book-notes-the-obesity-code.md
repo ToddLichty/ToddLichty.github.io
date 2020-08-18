@@ -1,0 +1,7 @@
+---
+layout: post
+title: The Obesity Code - Book Notes
+permalink: /book-notes-the-obesity-code/
+author: Todd Lichty
+---
+<p>I read  Dr. Jason Fung's <a href="https://www.amazon.ca/Obesity-Code-Unlocking-Secrets-Weight/dp/1771641258/ref=sr_1_1?ie=UTF8&amp;qid=1547231706&amp;sr=8-1&amp;keywords=the+obesity+code">The Obesity Code</a> this past week. It has been on my to read list since I ran across it in October. It was a quick and enjoyable read. Below are the notes that I took.<br></p><p>Reduce your consumption of added sugars</p><p>-This one seems pretty self explanatory.</p><p>Don’t snack</p><p>-This one is linked to the last tip - fasting. Each time you eat, you spike your insulin. The fewer spikes, the more weight loss</p><p>Make breakfast optional</p><p>No sugar added beverages</p><p>Coffee is ok </p><p>-Thank goodness! Coffee is a high source of antioxidants, magnesium, lignans and chlorogenic acid</p><p>Tea is the second most popular drink in the world. </p><p>Reduce your consumption of refined grains</p><p>Moderate protein consumption</p><p>-This one is going to be tough for me. </p><p>Increase your consumption of natural fats</p><p>Increase your consumption of fibre and vinegar</p><p>Fast! Eating spikes your insulin. The fewer times you eat, the fewer times your insulin spikes.<br><br><br></p>

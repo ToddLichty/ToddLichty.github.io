@@ -1,0 +1,19 @@
+---
+layout: post
+title: Growing as a Manager
+permalink: /well-past-due-my-first-1-1-meetings/
+author: Todd Lichty
+---
+<!--kg-card-begin: markdown--><p>I've been &quot;managing&quot; employees since I was promoted to Lead Developer at my first job back in 2000. At the time I had worked under a total of TWO other development managers for a total of 18 months. I thought being the smartest developer in the room meant that I would be a great manager. I was sooooo wrong.</p>
+<p>Since starting work at Sherpa Marketing in 2002, I have had between 3 and 10 employees reporting to me. To say that I have been a fairly lousy manager would be an understatement. I was more concerned with increasing my own technological skills, more concerned with my next raise and completing the current project and reaping the rewards and recognition of the owner than my staff. I treated my staff as a way to complete projects, not as valued employees.</p>
+<p>I failed to realize how important it is to manage the employees who were on my team. I did not appreciate that they needed chances to grow their skills, take on more responsibility and have someone generally interested in their career development.</p>
+<p>A few years ago, I became aware how much I had failed my previous team members. I decided it was time to do something to make myself a better manager.</p>
+<p>It started with the realization that as a manger, I needed to give the credit to my team and take full responsibilities for their failures. I needed to protect them from the unrealistic expectations of the account team while making sure they heard all the praise reaped on our team by the customers.</p>
+<p>I was finally ready to not be the smartest developer in the room. I was OK with letting someone else take on the projects that made use of the latest and greatest technologies. It was OK if I spent more time in meetings and in Word than in Visual Studio.</p>
+<p>As I continued to read and learn, I started reading more about one-on-one meetings and how important they were. I remember thinking that these would easily turn into quite a &quot;time suck&quot; considering I would need to do 7 meetings every week. Even if I were able to keep them to 30 minutes, I was still looking at a half day a week. I decided that they would not be worth the investment.</p>
+<p>Last week I started reading the new book <em>Hit Refresh by Microsoft CEO Satya Nadella</em>. It discussed how important teams were and how much he relied on his team and senior leadership team so much. It made it clear to me that I needed to be more in touch with my team and take their career development seriously.</p>
+<p>I spent some time reading various blog posts for a few hours and decided that one-on-one meetings were something that I needed to do. Being an introvert (and aren't we all in the technology industry), this idea scared me. What if the employees thought this was a waste of time? What if we had nothing to talk about? What if I said something stupid?</p>
+<p>I read a great post by <a href="https://getlighthouse.com/blog/">@Get_Lighthouse Blog</a> that convinced me to make a deal with myself. I could use the Lighthouse app IF I made sure to complete the first of my 1:1 meetings. I plan on writing a review of the Lighthouse app after I have used it for a few months.</p>
+<p>I'm proud to say that today I completed my first two 1:1 meetings with two of my employees. I plan on writing a summary of my experience in another blog post.</p>
+<p>I wish I had made my employees success a priority sooner in my career. I do apologize to all the past team members that I failed.</p>
+<!--kg-card-end: markdown-->

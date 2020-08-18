@@ -1,0 +1,7 @@
+---
+layout: post
+title: Getting Started Developing on Open edX
+permalink: /getting-started-developing-on-open-edx/
+author: Todd Lichty
+---
+<p>After spending the past couple of weeks digging into Open edX and trying to wrap my head around the enormity of the project, I came across some documents that I WISH I had watched/read first. </p><p>I'm hoping to document my progress learning Open edX over the next few blog posts to assist anyone else who is tasked with diving into Open edX development.</p><p>I really wish I had seen the talk below before I installed Open edX Devstack. It would have helped immensely in understanding how everything fits together. Especially considering my Microsoft focused past experience. :)</p><p>The talk below was given at the 2018 Open edX Conference held in Montreal. The slides for the presentation can be found <a href="file:///home/todd/Downloads/Navigating%20the%20Docker%20Devstack%20Presentation.pdf">here</a>. Those that are familiar with Docker, can skip the first 10 minutes of the talk.</p><figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/J_-mhrRSYyQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p>While the audio isn't super great, there is a ton of useful hints in the video.</p>

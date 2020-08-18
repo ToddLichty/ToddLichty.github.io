@@ -1,0 +1,16 @@
+---
+layout: post
+title: Pluralsight Review - Adapting to the New Normal - Embracing a Security Culture of Continual Change
+permalink: /pluralsight-review-adapting-to-the-new-normal-embracing-a-security-culture-of-continual-change/
+author: Todd Lichty
+---
+<!--kg-card-begin: markdown--><p>As I've said many times before, I love everything that <a href="https://www.troyhunt.com/">Troy Hunt</a> releases. I read his blog daily, have watched the majority of his weekly <a href="https://www.youtube.com/channel/UCD6MWz4A61JaeGrvyoYl-rQ">YouTube update videos</a> and have watched every one of his <a href="https://app.pluralsight.com/profile/author/troy-hunt">Pluralsight courses</a> to date.<br>
+I recently completed his latest video - <a href="https://app.pluralsight.com/library/courses/adapting-new-normal-embracing-security-continual-change/table-of-contents">Adapting to the New Normal: Embracing a Security Culture of Continual Change</a>. This was one of his shortest Plurasight courses he has released. It is only 37 minutes long when played at normal speed.<br>
+This course was primarily focused on changing the fundamental way we view security and how we need to keep security practices changing to keep up with today’s technology.</p>
+<p>The password was first introduced in the 60’s. Back then, you needed physical access to the computer to use someone’s password. There was no remote access. You also needed to know HOW to use the computer for the password to be of any use. In the 60’s there was also no internet or social media. Someone could use their dog’s name as their password and it would be safe since it wasn’t plastered all over FaceBook. 😊</p>
+<p>If we look at the state of passwords today, we really have not moved forward very far. We do require users to login with a username, but 90% of the time, this is just their email address. Something that is very easy to find. So to authenticate to a website, we ask users to know two strings. Not very secure.</p>
+<p>We then took this a step forward and ask users to use passwords that, mathematically, are stronger. One upper case, one lower case, one number and a “special” character. While this does make the password mathematically more secure, it forces users to use predictable password. They revert to using character substitution (zero instead of an “o”) and then add an “!” to the end of the password to fulfill the special character requirement.</p>
+<p>Another example of password “best practices” being out of date is the requirement most enterprises enforce of regular password changing. Up to a couple of years ago, I enforced this practice at my previous employer. The staff worked around this scheme by just incrementing a number that was either at the beginning or end of their password. Again, not very secure. The industry as a whole needs to move away from a mathematical view of passwords and make something that works for humans.</p>
+<p>The biggest take away for me was:</p>
+<p>Ask yourself why a security process is in place? What does it secure? If the answer to these two questions is “We’ve always done it this way.”, then it is time to seriously review this process.</p>
+<!--kg-card-end: markdown-->

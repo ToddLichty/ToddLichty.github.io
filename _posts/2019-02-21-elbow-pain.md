@@ -1,0 +1,7 @@
+---
+layout: post
+title: Elbow Pain
+permalink: /elbow-pain/
+author: Todd Lichty
+---
+<p>About 5 weeks ago, I woke up with severe pain in my right elbow. To be honest, I still have no idea what caused it. I do not recall banging my arm/elbow nor do I recall tweaking it the day before at the gym. </p><p>The area that was in the most discomfort indicated that this was elbow tendonitis, more commonly known as Tennis Elbow. After some reading online, I decided to ice the elbow as much as I could. I spent the first two weeks after the injury doing nothing but squatting and cardio in the gym. No upper body work at all. Not my favorite way to spend my gym time.</p><p>Three weeks after the injury, I added in some machines that targets my back and chest. I started with the lightest weight the machine had and did 2 sets of 10 reps each. I waited 48 hours after the workout and there was no increase in the pain. I performed another machine upper body workout but increased the weights to the second lightest. Again, there was no additional pain.</p><p>I performed the machine workout for three weeks, increasing the weight, sets and reps every other day. While not an ideal workout, it sure beats the elliptical trainer!</p><p>Today I got back on the bench for the first time in five weeks. I worked up to a single at 195 lbs and felt no pain. I then did three sets of back off sets with decreasing weights. No pain to speak of.</p><p>It has been a LOOOOOOONG five weeks, but so far I have no re-injured the elbow. I </p>
