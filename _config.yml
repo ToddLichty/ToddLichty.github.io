@@ -23,9 +23,7 @@ email: twlichty@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog of Todd Lichty.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://toddlichty.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
