@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -14,7 +13,7 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
+    {{ post.content | markdownify | strip_html | truncatewords: 50 }}
   </article>
   {% endfor %}
 </div>
